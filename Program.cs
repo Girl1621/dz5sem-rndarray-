@@ -159,19 +159,3 @@ int FindEvenNumbers(int[] array)
 
 
 
-
-
-
-// int Range(int[] array)
-// {
-//     int count = default;
-
-//     for (int i = 0; i < array.Length; i++)
-//     {
-//         if (array[i] = )
-//             count++;
-
-//     }
-//     return count;
-
-// }
